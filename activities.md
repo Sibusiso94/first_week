@@ -8,3 +8,7 @@ I worked on the IACD project that needed to be presented on Thursday. There were
 
 **Wednesday**:
 I prepared for Fridays presentation for Glucode. We also did a practice run for the IACD presentation the next day.
+
+**Thursday**:
+I presented the app for IACD and started preparing for Glucodes presentation.
+
