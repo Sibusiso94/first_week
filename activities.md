@@ -12,3 +12,6 @@ I prepared for Fridays presentation for Glucode. We also did a practice run for 
 **Thursday**:
 I presented the app for IACD and started preparing for Glucodes presentation.
 
+**Friday**:
+I did my presentation for Glucode.
+
